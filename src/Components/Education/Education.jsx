@@ -30,7 +30,7 @@ function Education() {
           </div>
         </div>
 
-        <div className="flex flex-col justify-start items-center pl-10 my-2 ">
+        <div className="flex flex-col justify-center items-center pl-10 my-2 ">
           <h1 className="text-2xl font-bold ">Additional Courses </h1>
           <p> &#x2022; Human-Computer Interaction</p>
           <p> &#x2022; Software Quality & Measurements</p>
@@ -58,7 +58,7 @@ function Education() {
           </div>
         </div>
 
-        <div className="flex flex-col justify-start items-center pl-10 my-2">
+        <div className="flex flex-col justify-center items-center pl-10 my-2">
           <h1 className="text-2xl font-bold">Additional Courses </h1>
           <p> &#x2022; Cryptography and Network Security</p>
           <p> &#x2022; Ethical Hacking &Penetration Testing</p>

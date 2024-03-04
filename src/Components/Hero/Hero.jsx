@@ -14,7 +14,7 @@ function Hero() {
           <div className="pb-10">
             <div className="flex flex-col justify-center items-center ">
               <h1 className="mb-3 text-3xl">Hi there! I"m Marnol</h1>
-              <p className="mb-3 text-2xl ">
+              <p className="mb-3 text-2xl flex text-center ">
                 I"m Full Stack Web Developer Based In kl.
               </p>
               <div>
