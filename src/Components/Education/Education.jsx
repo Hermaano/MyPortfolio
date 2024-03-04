@@ -5,7 +5,7 @@ function Education() {
   return (
     <div className="educationSection mt-[170px] mb-10 text-black">
 
-      <div className="container mx-auto px-2 bg-white py-2 rounded-md ">
+      <div className="container mx-auto px-2 bg-white py-10 rounded-md ">
         <h1 className="text-center text-3xl font-bold w-full border-b-2 uppercase border-[blue]">
           EDUCATION
         </h1>
