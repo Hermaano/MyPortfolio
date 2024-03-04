@@ -58,7 +58,7 @@ function Education() {
           </div>
         </div>
 
-        <div className="flex flex-col justify-center items-center pl-10 my-2">
+        <div className="flex flex-col justify-center items-center  my-2">
           <h1 className="text-2xl font-bold">Additional Courses </h1>
           <p> &#x2022; Cryptography and Network Security</p>
           <p> &#x2022; Ethical Hacking &Penetration Testing</p>
