@@ -4,13 +4,13 @@ import AboutMe1 from "../../assets/b_r.jpeg";
 
 function AboutMe() {
   return (
-    <div className="AboutSection mb-[100px] py-5 mt-16  ">
-      <div className="container mx-auto  py-4 mt-2 bg-white rounded-md">
+    <div className="abonesio mb-10 py-5 mt-10  ">
+      <div className="container mx-auto  py-1 mt-2 bg-white rounded-md">
         <h1 className="text-black text-center uppercase text-3xl font-bold pt-2 ">
           About Me
         </h1>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 bg-white py-5 mt-5">
+        <div className="grid grid-cols-1 md:grid-cols-2 bg-white py-2 mt-2">
 
           <div className="flex justify-center items-center mb-2">
             <img src={AboutMe1} className="w-[50%] rounded-3xl" alt="myfrnd" />

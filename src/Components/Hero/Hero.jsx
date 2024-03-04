@@ -7,14 +7,14 @@ import AboutMe1 from "../../assets/b_r.jpeg";
 
 function Hero() {
   return (
-    <div className="heroSection   pt-16">
+    <div className="heroSection   pt-16 pb-[90px] bg-white">
       <div className="container mx-auto px-2 pt-16">
         <div className="grid grid-cols-1 order-2 md:grid-cols-2 justify-center items-center">
 
           <div className="pb-10">
             <div className="flex flex-col justify-center items-center ">
               <h1 className="mb-3 text-3xl">Hi there! I"m Marnol</h1>
-              <p className="mb-3 text-2xl flex text-center ">
+              <p className="mb-3 text-2xl ">
                 I"m Full Stack Web Developer Based In kl.
               </p>
               <div>

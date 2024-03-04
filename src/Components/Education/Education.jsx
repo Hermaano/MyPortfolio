@@ -3,8 +3,7 @@ import { IoBookOutline } from "react-icons/io5";
 
 function Education() {
   return (
-    <div className="educationSection mt-[170px] mb-10 text-black">
-
+    <div className="educationSection mt-10 mb-10 text-black">
       <div className="container mx-auto px-2 bg-white py-10 rounded-md ">
         <h1 className="text-center text-3xl font-bold w-full border-b-2 uppercase border-[blue]">
           EDUCATION
@@ -31,8 +30,7 @@ function Education() {
           </div>
         </div>
 
-         
-
+        
         <div className="grid grid-cols-1 justify-center items-center md:grid-cols-4 ">
           <div className="flex justify-center items-center mt-2">
             <IoBookOutline size={20} color="blue" />
@@ -54,8 +52,7 @@ function Education() {
           </div>
         </div>
 
-    
-
+        
 
       </div>
     </div>

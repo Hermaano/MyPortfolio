@@ -6,7 +6,7 @@ import github from "../../assets/github.png";
 
 function ContactMe() {
   return (
-    <div className="contactSection my-[170px] py-5">
+    <div className="contactSection my-10 py-5">
       <div className="container mx-auto  py-4 mt-2">
         <h1 className="text-black text-center uppercase text-3xl font-bold border-b-2 border-[blue] pb-2">
           Contact Me

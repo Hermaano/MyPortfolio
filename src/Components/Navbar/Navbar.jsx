@@ -32,9 +32,9 @@ function Navbar() {
             </li>
             <li>
               <Link
-                to="AboutSection"
+                to="abonesio"
                 smooth={true}
-                offset={-100}
+                offset={-50}
                 duration={500}
               >
                 ABOUT ME
@@ -89,12 +89,12 @@ function Navbar() {
           }
         >
           <li className="w-full flex justify-center  cursor-pointer border-b-2  pb-2">
-            <Link to="AboutSection" smooth={true} offset={-200} duration={500}>
+          <Link to="abonesio" smooth={true} offset={260} duration={500}>
               ABOUT ME
             </Link>
           </li>
           <li className="w-full flex justify-center cursor-pointer border-b-2 pb-2">
-            <Link to="skillSection" smooth={true} offset={-70} duration={500}>
+            <Link to="skillSection" smooth={true} offset={500} duration={500}>
               SKILLS
             </Link>
           </li>

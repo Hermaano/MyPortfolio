@@ -114,8 +114,10 @@ function Projects() {
           <a href="https://github.com/Nucmaan/API_V_02" target="_blank" rel="noopener noreferrer">
           <button className="bg-[blue] px-3 py-2 text-white rounded-md">Source Code</button>
         </a>
+         <a href="https://blog-app-five-pied.vercel.app/home" target="_blank" rel="noopener noreferrer">
+
             <button className=" px-3 py-2 text-black rounded-md border-2 border-[blue] ml-2">Live Preview</button>
-            
+            </a>
           </div>
         </div>
 
